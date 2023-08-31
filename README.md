@@ -11,6 +11,10 @@
 - <b>Certified Doomster - a JRPG inspired game</b>
   - [Source Code](https://github.com/Yamz64/ArchRPG)
   - [Game](https://gamc.itch.io/certified-doomster)
+- <b>Tetris - a version of Tetris with dynamic sound using Unity's "chunity" plugin</b>
+  - [Source Code](https://github.com/Yamz64/TetrisChucKImplimentation)
+- <b>Vilegun - sourcecode for an arena FPS</b>
+  - [Source Code](https://github.com/Yamz64/BoomerShooter)
  
 <h2> 💻 Other Projects: </h2>
 
@@ -19,6 +23,9 @@
   - [Release](https://github.com/Yamz64/PNGToBlock/releases/tag/C%2B%2B)
 - <b>C++ Sweeper - a c++ implementation of the classic game using SFML</b>
   - [Source Code](https://github.com/Yamz64/Cplusplus-Sweeper)
+- <b>Pizza Tower Autosplitter - opensource ASL scripts for the any% and John % run</b>
+  - [Scripts](https://github.com/Yamz64/PizzaTowerAutosplitter)
+  - [Release](https://github.com/Yamz64/PizzaTowerAutosplitter/releases/tag/v1.0)
 
 <h2>📺 YouTube Videos </h2>
 
