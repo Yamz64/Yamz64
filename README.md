@@ -3,6 +3,7 @@
 <h2> 🎮 Unity Projects:</h2>
 
 - <b>Dig Dug 3D - a 3D implementation of Namco's classic arcade game</b>
+  - [How the Voxel System works](https://yamz64.itch.io/dig-dug-30/devlog/588102/dig-dug-3ds-voxel-system)
   - [Source Code](https://github.com/Yamz64/DigDug3D)
   - [Game](https://yamz64.itch.io/dig-dug-30)
 - <b>Super Shotgun Man 3D - a movement focused, platformer FPS game</b>
