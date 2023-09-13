@@ -4,6 +4,7 @@
 
 - <b>Dig Dug 3D - a 3D implementation of Namco's classic arcade game</b>
   - [How the Voxel System works](https://yamz64.itch.io/dig-dug-30/devlog/588102/dig-dug-3ds-voxel-system)
+  - [Dig dug 3D's AI](https://yamz64.itch.io/dig-dug-30/devlog/588564/dig-dug-3ds-ai)
   - [Source Code](https://github.com/Yamz64/DigDug3D)
   - [Game](https://yamz64.itch.io/dig-dug-30)
 - <b>Super Shotgun Man 3D - a movement focused, platformer FPS game</b>
