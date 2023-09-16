@@ -8,6 +8,7 @@
   - [Source Code](https://github.com/Yamz64/DigDug3D)
   - [Game](https://yamz64.itch.io/dig-dug-30)
 - <b>Super Shotgun Man 3D - a movement focused, platformer FPS game</b>
+  - [The Design Behind Super Shotgun Man's Movement](https://gamc.itch.io/super-shotgun-man-3d/devlog/590581/super-shotgun-mans-movement)
   - [Source Code](https://github.com/Yamz64/SuperShotgunMan3D)
   - [Demo](https://gamc.itch.io/super-shotgun-man-3d)
 - <b>Certified Doomster - a JRPG inspired game</b>
